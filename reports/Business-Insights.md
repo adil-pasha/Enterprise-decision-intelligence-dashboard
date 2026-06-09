@@ -1,31 +1,31 @@
 # Business Insights
 
 ## Insight 1
-West region generates the highest revenue.
+West region generates the highest revenue among all regions.
 
 ### Recommendation
-Increase investment in West region operations.
+Increase marketing investment and inventory allocation in the West region.
 
 ---
 
 ## Insight 2
-Technology is the most profitable category.
+Technology category generates the highest revenue and profit.
 
 ### Recommendation
-Expand technology product offerings.
+Expand technology product offerings and promotions.
 
 ---
 
 ## Insight 3
-Furniture revenue is high but profitability is low.
+Furniture generates strong revenue but relatively low profit.
 
 ### Recommendation
-Review pricing strategy and discount policies.
+Review pricing strategy, discounts, and operational costs.
 
 ---
 
 ## Insight 4
-Revenue is concentrated among a small number of customers.
+A small number of customers contribute a significant portion of revenue.
 
 ### Recommendation
-Launch customer retention and loyalty initiatives.
+Implement customer loyalty and retention programs for top customers.
