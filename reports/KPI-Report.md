@@ -6,8 +6,11 @@ $2,297,220
 ## Top Revenue Region
 West
 
-## Best Performing Category
+## Best Revenue Category
 Technology
 
 ## Highest Revenue Customer
 Sean Miller
+
+## Business Objective
+Provide executives with key performance indicators and business insights for strategic decision-making.
